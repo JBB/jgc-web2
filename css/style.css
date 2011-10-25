@@ -342,6 +342,11 @@ body {
                         left: 121px;
 			margin: 0 auto;*/
 		}
+                span#donate-button {
+                  float: right;
+                  margin-top: 7px;
+                  margin-right: 10px;
+                }
 		div#main {
 			background: white;
 			width: 960px;
