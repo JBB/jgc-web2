@@ -333,7 +333,7 @@ body {
 		div#sub_menu {
 			background: #990000;
 			width: 960px;
-                        height: 33px;
+                        height: 43px;
 			margin: 0 auto;
 			position: relative;
                         /*position: relative;
@@ -344,7 +344,7 @@ body {
 		}
                 span#donate-button {
                   float: right;
-                  margin-top: 4px;
+                  margin-top: 9px;
                   margin-right: 10px;
                 }
 		div#main {
@@ -383,15 +383,28 @@ body {
 					float: right;
                                         margin-right: 5px;
                                         margin-top: 5px;
+                                        margin-top: 25px;
+                                        margin-bottom: 25px;
 				}
 				h1.content-text-header {
 					color: #990000;	
+				}
+				h1.title-page-header-big {
+					color: #990000;
+					font-size: large;	
+				}
+				h1.title-page-header-bigger {
+					color: #990000;
+					font-size: x-large;	
 				}
 				h2.content-text-header {
 					color: #990000;	
 				}
 				h3.content-text-header {
 					color: #990000;	
+				}
+				span.center-text {
+					text-align: center;
 				}
 				span.content-underline {
 					text-decoration: underline;
@@ -402,11 +415,26 @@ body {
 				span.content-italic {
 					font-style: italic;
 				}
+				a.header-link {
+					color: #990000;
+					text-decoration: none;
+					font-weight: bold;
+				}
 				a.link-underlined {
 				}
 				a.link-no-underline {
 					text-decoration: none;
 				}
+				/*Columns*/
+				div.column-outer {
+					width: 910px;
+				}
+				div.column-inner-box {
+					width: 445px;
+					float: left;
+					margin-left: 10px;
+				}
+				/* end columns */
 		
 			div#carousel {
 				height: 420px;
