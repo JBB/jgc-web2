@@ -333,7 +333,7 @@ body {
 		div#sub_menu {
 			background: #990000;
 			width: 960px;
-                        height: 43px;
+                        height: 33px;
 			margin: 0 auto;
 			position: relative;
                         /*position: relative;
@@ -344,7 +344,7 @@ body {
 		}
                 span#donate-button {
                   float: right;
-                  margin-top: 9px;
+                  margin-top: 4px;
                   margin-right: 10px;
                 }
 		div#main {
