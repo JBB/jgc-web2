@@ -425,6 +425,9 @@ body {
 				a.link-no-underline {
 					text-decoration: none;
 				}
+				hr.short-rule {
+					width: 80%;
+				}
 				/*Columns*/
 				div.column-outer {
 					width: 910px;
