@@ -449,6 +449,16 @@ body {
 					float: left;
 					margin-left: 10px;
 				}
+				div.right-side-box {
+					float: 		right;
+					margin: 	10px 10px 10px 15px;
+					padding: 	5px 5px 5px 5px;
+					background:  	#ddcf99;
+					border-style:	solid;
+					border-color: 	black;
+					border-width:	2px;
+					border-radius:	5px;
+				}
 
 
 				/* end columns */
