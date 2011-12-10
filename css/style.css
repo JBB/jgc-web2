@@ -269,7 +269,7 @@ body {
 	}
 	
 		header {
-			background-image: url('../images/index/header_bg.png');
+			background-image: url('../images/index/headerBGSand.png');
 			background-repeat: repeat-x;
 			height: 85px;
                         width: 960px;
@@ -331,7 +331,7 @@ body {
 				}
 			
 		div#sub_menu {
-			background: #990000;
+			background: #a4001d;
 			width: 960px;
                         height: 33px;
 			margin: 0 auto;
@@ -427,6 +427,10 @@ body {
 				}
 				hr.short-rule {
 					width: 80%;
+				}
+				hr.short-thick-rule {
+					width: 80%;
+                                        border-width: 10px;
 				}
 				/*Columns:*/
 

@@ -72,23 +72,23 @@ ul.sf-menu li li li.sfHover ul {
 .sf-menu a, .sf-menu a:visited  { /* visited pseudo selector so IE6 applies text colour*/
 	color:			#ffffff; /* #13a; JBB */
         font-size:              100%;
-	font-weight:		bold;
+	/*font-weight:		bold;*/
 }
 .sf-menu li {
-	background:		#990000; /*#BDD2FF; JBB*/
+	background:		#a4001d; /*#BDD2FF; JBB*/
 }
 .sf-menu li li {
-	background:		#990011; /*#AABDE6; JBB */
+	background:		#a4001d; /*#AABDE6; JBB */
 }
 .sf-menu li li a{
-	border-top:		1px solid #770000; /*Added it here to keep smooth line across top*/
+	border-top:		1px solid #a4001d; /*Added it here to keep smooth line across top*/
 }
 .sf-menu li li li {
-	background:		#990022; /*#9AAEDB; JBB */
+	background:		#a4001d; /*#9AAEDB; JBB */
 }
 .sf-menu li:hover, .sf-menu li.sfHover,
 .sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
-	background:		#770000;/*#CFDEFF; JBB */
+	background:		#990000;/*#CFDEFF; JBB */
 	outline:		0;
 }
 
