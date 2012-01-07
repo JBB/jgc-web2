@@ -32,6 +32,7 @@
 .sf-menu a {
 	display:		block;
 	position:		relative;
+  /*font-family: NewsGothic;*/
 }
 .sf-menu li:hover ul,
 .sf-menu li.sfHover ul {
