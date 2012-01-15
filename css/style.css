@@ -352,33 +352,33 @@ body {
 			height: 100%;
 			margin: 0 auto;
 			position: relative;
-      top: -15px;
-      /*font-family: NewsGothic;*/
+                        top: -15px;
+                        /*font-family: NewsGothic;*/
 		}
-			div#jgc-content-features {
-				width: 100%;
-				height: 100%;
-        float: left;
-				top: -1px;
-				background-color: #dadada;
-				margin-bottom: 5px;
-			}
+	        div#jgc-content-features {
+		        width: 100%;
+			height: 100%;
+                        float: left;
+			top: -1px;
+			background-color: #dadada;
+			margin-bottom: 5px;
+		}
 			
-				div.jgc-content-feature-item-left {
-					float: left;
-          min-height: 500px;
-          margin-left: 25px;
-          margin-top: 25px;
-          margin-right: 15px;
-          margin-bottom: 25px;
-				}
-				div.jgc-content-feature-item-right {
-					float: right;
-          margin-right: 5px;
-          margin-top: 5px;
-          margin-top: 25px;
-          margin-bottom: 25px;
-				}
+		div.jgc-content-feature-item-left {
+		  float: left;
+                  min-height: 500px;
+                  margin-left: 25px;
+                  margin-top: 25px;
+                  margin-right: 15px;
+                  margin-bottom: 25px;
+		}
+		div.jgc-content-feature-item-right {
+		  float: right;
+                  margin-right: 5px;
+                  margin-top: 5px;
+                  margin-top: 25px;
+                  margin-bottom: 25px;
+		}
 				h1.content-text-header {
 					color: #990000;	
 				}
@@ -391,7 +391,7 @@ body {
 					font-size: x-large;	
 				}
 				h2.content-text-header {
-					color: #990000;	
+					color: #990000;
 				}
 				h3.content-text-header {
 					color: #990000;	
@@ -408,6 +408,9 @@ body {
 				span.content-italic {
 					font-style: italic;
 				}
+                                p.quote_author {
+                                        padding-left: 50px;
+                                }
 				a.header-link {
 					color: #990000;
 					text-decoration: none;
@@ -423,7 +426,7 @@ body {
 				}
 				hr.short-thick-rule {
 					width: 80%;
-          border-width: 10px;
+                                        border-width: 10px;
 				}
 				/*Columns:*/
 
