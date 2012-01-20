@@ -416,6 +416,10 @@ body {
 					text-decoration: none;
 					font-weight: bold;
 				}
+				a.link-homepage-feature {
+                                        text-decoration: none;
+                                        color: #000033; 
+				}
 				a.link-underlined {
 				}
 				a.link-no-underline {
