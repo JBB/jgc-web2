@@ -408,6 +408,9 @@ body {
 				span.content-italic {
 					font-style: italic;
 				}
+				span.under-photo {
+					font-size: 70%;
+				}
                                 p.quote_author {
                                         padding-left: 50px;
                                 }
@@ -432,6 +435,17 @@ body {
 					width: 80%;
                                         border-width: 10px;
 				}
+                                img.news-medium {
+                                  width: 500px;
+                                  height: 375px;
+                                }
+                                img.bio {
+                                  width: 115px;
+                                  height: 140px;
+                                }
+                                li.bottom-gap {
+                                  margin-bottom: 15px;
+                                }
 				/*Columns:*/
 
 				/*2 even columns */
@@ -455,7 +469,7 @@ body {
 				}
 				div.right-side-box {
 					float: right;
-          width: 250px;
+                                        width: 250px;
 					margin:	10px 10px 10px 15px;
 					padding: 5px 5px 5px 5px;
 					background:	#ddcf99;
@@ -633,6 +647,9 @@ body {
 
 						ul.news {
 							list-style-image: url('../images/icons/ticket-stub.png');
+						}
+						ul.media {
+							list-style-image: url('../images/icons/blog.png');
 						}
 						
 						div#jfk_quote {
