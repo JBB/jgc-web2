@@ -142,97 +142,9 @@ document.createElement("article" );
 					</ul>
 				</div>
 			</div>
-                 <!--end of features, now footer-->
-                 <br clear="all">
-                  
-                 <div class="footer_top">
-                   <ul class="plugins">
-                     <li class="plugin">
-                       <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="jgc.stanford.edu" layout="button_count" show_faces="false" width="90" font="" send="true" class="fb-like"></fb:like>
-                     </li>
-                     <li class=plugin>
-                        <a href="http://www.twitter.com/gardnercenter">
-                          <img src="/images/index/follow_on_twitter.png"></a>
-                     </li>
-
-                     <li class=plugin>
-                        <g:plusone size="medium" annotation="none"></g:plusone>
-                     </li>
-
-
-                   </ul>
-                   <ul class="piped_right">
-                     <li class="footer"><a href="/about_jgc/contact.html" class="footer">Contact Us</a></li>
-                     <li class="footer"><a href="#" class="footer">Jobs</a></li>
-                     <li class="footer"><a href="/about_jgc/mission.html" id="first" class="footer">About JGC</a></li>
-                   </ul>
-                 </div>
-                 
-                 <div class="footer">
-                   <span class="left_footer_text"> 
-                   Copyright &copy 2012 John W Gardner Center at Stanford University. All rights reserved.<br>Home page art by <a href="http://www.muralmusicarts.org">muralmusicarts.org</a>, lead artist Omar Ramirez</span> 
-                   <ul class="piped">
-                     <li class="footer"><a href="http://stanford.edu/site/terms.html" target="blank" id="first" class="footer">Terms of use</a></li>
-                     <li class="footer"><a href="https://pgnet22.stanford.edu/giving/part/common/privacy.html" target="_blank" class="footer">Privacy policy</a></li>
-                   </ul>
-                </div>
+    <!--#include virtual="content-footer.html" -->
 	 </div>
-      <footer>
-
-      </footer>
-
     </div>
-    
-  </div> <!--! end of #container -->
-
-
-  <!-- Javascript at the bottom for fast page loading -->
-
-  <!-- Grab Google CDN's jQuery. fall back to local if necessary
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="js/libs/jquery-1.4.2.js"%3E%3C/script%3E'))</script>
-   -->
-  
-  <!-- scripts concatenated and minified via ant build script-->
-  <!-- end concatenated and minified scripts-->
-  
-  
-  <!--[if lt IE 7 ]>
-    <script src="js/libs/dd_belatedpng.js"></script>
-    <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
-  <![endif]-->
-
-  <!-- yui profiler and profileviewer - remove for production
-  <script src="js/profiling/yahoo-profiling.min.js"></script>
-  <script src="js/profiling/config.js"></script>
-   -->
-  <!-- end profiling code -->
-
-
-  <!-- asynchronous google analytics: mathiasbynens.be/notes/async-analytics-snippet 
-       change the UA-XXXXX-X to be your site's ID -->
-  
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4880637-4']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + 
-'.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<script type="text/javascript">
- (function() {
-  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-  po.src = 'https://apis.google.com/js/plusone.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
- })();
-</script>
+    <!--#include virtual="content-analytics.html" -->
 </body>
 </html>
