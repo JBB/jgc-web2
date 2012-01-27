@@ -408,6 +408,10 @@ body {
 				span.content-italic {
 					font-style: italic;
 				}
+				span.content-bold-italic {
+					font-weight: bold;
+					font-style: italic;
+				}
 				span.under-photo {
 					font-size: 70%;
 				}
@@ -422,6 +426,11 @@ body {
 				a.link-homepage-feature {
                                         text-decoration: none;
                                         color: #000033; 
+				}
+				a.link-homepage-feature-right {
+                                        text-decoration: none;
+                                        color: #000033; 
+                                        float: right;
 				}
 				a.link-underlined {
 				}
@@ -442,6 +451,12 @@ body {
                                 img.bio {
                                   width: 115px;
                                   height: 140px;
+                                }
+                                img.bio-std {
+                                  width: 115px;
+                                  float: left;
+                                  margin-right: 10px;
+                                  vertical-align: text-top;
                                 }
                                 li.bottom-gap {
                                   margin-bottom: 15px;
@@ -493,7 +508,7 @@ body {
 				}
 				
 				div#slide_1 {
-					background-image: url('../images/index/homeDec2012.jpg');
+					background-image: url('../images/index/homeJan20122.jpg');
 				}
 				
 					div.slide_quote {
