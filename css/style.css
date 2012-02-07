@@ -762,6 +762,10 @@ body {
                 .fb-like {
                   vertical-align: top;
                 }
+                div#fb-like {
+                  display: inline;
+                  vertical-align: top;
+                }
 
                 /*ul.piped ul.piped_right {
                   /*display: block;

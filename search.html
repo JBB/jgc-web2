@@ -17,40 +17,43 @@ document.createElement("article" );
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
 <head>
   <!--#include virtual="/content-head.html" -->
+
+  <script>
+  var qs_search = null;
+  var url_array = decodeURI(document.URL).split('?');
+  if (url_array.length === 2) {
+    var qs_array = url_array[1].split('=');
+    if (qs_array[0] == 'q') {
+      var tmp = qs_array[1].split('&');
+      qs_search =  tmp[0];
+    }
+  }
+  </script>
 </head>
 
 <body>
-<!--#include virtual="/content-menu-top.html" -->
+<!--#include virtual="/content-menu-top-search.html" -->
 
 <div id="jgc-content">
   <div id="jgc-content-features">
     <div class="jgc-content-feature-item-left">
 
-      <div id="cse-search-results"></div>
-      <script type="text/javascript">
-        var googleSearchIframeName = "cse-search-results";
-        var googleSearchFormName = "cse-search-box";
-        var googleSearchFrameWidth = 960;
-        var googleSearchDomain = "www.google.com";
-        var googleSearchPath = "/cse";
-      </script>
-      <script type="text/javascript" src="//www.google.com/afsonline/show_afs_search.js"></script>
+<div id="cse" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '014221189792540735175:beufblrgl0a', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    customSearchControl.draw('cse', options);
+    if (qs_search) { customSearchControl.execute(qs_search);}
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
 
-
-      <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-4880637-4']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + 
-      '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-      </script>
 
     </div>
   </div>
