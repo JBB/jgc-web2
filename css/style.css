@@ -459,9 +459,10 @@ body {
                                   vertical-align: text-top;
                                 }
                                 img.mid-article-big-pic {
-                                  width: 500px;
+                                  width: 700px;
                                   float: right;
                                   margin-right: 10px;
+                                  margin-left: 15px;
                                   vertical-align: text-top;
                                 }
                                 img.pin {
