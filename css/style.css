@@ -415,6 +415,10 @@ body {
 				span.under-photo {
 					font-size: 70%;
 				}
+				span.date-under-title {
+					font-size: 80%;
+					font-weight: bold;
+				}
                                 p.quote_author {
                                         padding-left: 50px;
                                 }
@@ -459,6 +463,21 @@ body {
                                   width: 175px;
                                   float: left;
                                   margin-right: 10px;
+                                  vertical-align: text-top;
+                                }
+                                img.bio-resized {
+                                  float: left;
+                                  margin-right: 10px;
+                                  vertical-align: text-top;
+                                }
+                                img.media-left {
+                                  float: left;
+                                  margin-right: 10px;
+                                  vertical-align: text-top;
+                                }
+                                img.media-right {
+                                  float: right;
+                                  margin-left: 10px;
                                   vertical-align: text-top;
                                 }
                                 img.mid-article-big-pic {
