@@ -687,6 +687,10 @@ body {
 						ul.pdf {
 							list-style-image: url('../images/icons/document-pdf.png');
 						}
+						ul.pdf-sm {
+							list-style-image: url('../images/icons/document-pdf.png');
+                                                        font-size: 12px;
+						}
 						
 						ul.data {
 							list-style-image: url('../images/icons/hammer.png');
