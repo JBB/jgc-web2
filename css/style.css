@@ -540,7 +540,8 @@ body {
 				}
 				
 				div#slide_1 {
-					background-image: url('../images/index/homeJan20122.jpg');
+					/*background-image: url('../images/index/homeJan20122.jpg');*/
+					background-image: url('../images/index/homeDec2012.png');
 				}
 				
 					div.slide_quote {
