@@ -13,23 +13,7 @@
     	  <!---<a href="/"><img src="/images/2012FebTopLogoTrans3.png" /></a>--->
     	  <a href="/"><img src="/images/jgclogo.gif" /></a>
 
-          <div id="cse" style="width: 200px; float: right; padding: 50px 15px 0px 15px;">Loading</div>
-          <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-          <script type="text/javascript"> 
-            google.load('search', '1', {language : 'en'});
-            google.setOnLoadCallback(function() {
-              var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
-                '014221189792540735175:beufblrgl0a', customSearchOptions);
-              customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
-              var options = new google.search.DrawOptions();
-              options.setAutoComplete(true);
-              options.enableSearchboxOnly('http://jgc.stanford.edu/search.html','q',false,'?');
-              customSearchControl.draw('cse', options);
-            }, true);
-          </script>
           
-          <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
-
         </div>
     </header>
 
@@ -109,9 +93,29 @@
             </ul>
         </li>
       </ul>
+
       <span id="donate-button">
         <a href="/donate.html"><img src="/images/nav_donate2.jpg"></a>
       </span>
+
+<div id="cse" style="width: 210px;  float:right; padding:5px 15px 0px 0px;">Loading</div>
+          <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+          <script type="text/javascript"> 
+            google.load('search', '1', {language : 'en'});
+            google.setOnLoadCallback(function() {
+              var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+                '014221189792540735175:beufblrgl0a', customSearchOptions);
+              customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
+              var options = new google.search.DrawOptions();
+              options.setAutoComplete(true);
+              options.enableSearchboxOnly('http://jgc.stanford.edu/search.html','q',false,'?');
+              customSearchControl.draw('cse', options);
+            }, true);
+          </script>
+          
+          <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+
+
     </div>
 
     <br clear="all">
