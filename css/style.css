@@ -137,6 +137,7 @@ pre {
   white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
   word-wrap: break-word; /* IE */
 }
+
  
 textarea { overflow: auto; } /* thnx ivannikolic! www.sitepoint.com/blogs/2010/08/20/ie-remove-textarea-scrollbars/ */
 
@@ -251,6 +252,63 @@ body {
 	/*font-family: 'NewsGothic', NewsGothic, 'NewsGothicMT', Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font-family: 'NewsGothic';
 }
+
+
+
+/* From stanford-modern.css */
+.citation {
+  display: block;
+  text-align: right;
+  font-size: .8em;
+  color: #666;
+  padding-top: 1em;
+}
+
+div.photolarge {
+  float: right;
+  margin: 0 0 1em 1em;
+  width: 302px;
+}
+
+div.photolarge-left {float: left; margin: 0 1em 1em 0; width: 302px;}
+div.photolarge img {border:1px solid #e6e4db;}
+img.photolarge   {border: 1px solid #e6e4db; width: 300px;}
+
+a.lightbox, a.noborder {
+  border: none;
+}
+
+div.photolarge p {
+  background-color: #f6f3e5;
+  font-size: .9em;
+  margin: 0;
+  padding: .5em;
+  line-height: 1.25em;
+}
+
+p.byline {
+  text-transform: uppercase;
+  color: #9d9573;
+  font-size: 11px;
+  letter-spacing: .5px;
+}
+
+div.photosmall {float: right; margin: 0 0 1em 2em; width: 202px;}
+div.photosmall-left {float: left; margin: 0 2em 1em 0; width: 202px;}
+div.photosmall p {background-color: #f6f3e5; font-size: .9em !important; font-style: normal !important; margin-top: 0; padding: .5em; }
+div.photosmall img {border:1px solid #e6e4db;}
+img.photosmall   {border: 1px solid #e6e4db; width: 200px;}
+
+/* JBB - Not including maincntent p below
+p.byline {
+  text-transform: uppercase;
+  color: #9d9573;
+  font-size: 11px;
+  letter-spacing: .5px;
+}
+*/
+
+/* End stanford-modern.css */
 
 	div#container {
 		width: 100%;
