@@ -49,7 +49,7 @@ document.createElement("article" );
   <!-- Uncomment if you are specifically targeting less enabled mobile browsers
   <link rel="stylesheet" media="handheld" href="css/handheld.css?v=2">  -->
  
-  <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+  <!-- All JavaScript at the bottomhttp://www.americaspromise.org/Our-Work/Grad-Nation/Summit.aspx, except for Modernizr which enables HTML5 elements & feature detects -->
   <script src="js/libs/jquery-latest.min.js"></script>
   <script src="js/libs/jquery-event-tracking.js"></script>
   <script src="js/libs/hoverIntent.js"></script>
@@ -110,11 +110,15 @@ document.createElement("article" );
 					<p>
 						&nbsp;<br>
                                                 <a class="link-homepage-feature" href="http://ed.stanford.edu/news/standard-excellence-how-john-w-gardner-inspires-new-generation-leaders">
+						Stanford's Gardner Center joins $30 million Mission District youth initiative 
+                                                </a>	
+					</p><br>
+                                                <a class="link-homepage-feature" href="http://ed.stanford.edu/news/standard-excellence-how-john-w-gardner-inspires-new-generation-leaders">
 						How John W. Gardner Inspires a New Generation of Leaders
                                                 </a>	
 					</p>
 					<p>
-					<a class="link-homepage-feature" href="http://ed.stanford.edu/news/standard-excellence-how-john-w-gardner-inspires-new-generation-leaders">Learn More >></a>	
+						
 					</p>
 				</div>
 			</div>
@@ -132,7 +136,7 @@ document.createElement("article" );
 Driving Improvement in California's Continuation High Schools</a><br><br>
                                                   </li>
 						
-   news/mm_haas_award.html
+
 
 
 
