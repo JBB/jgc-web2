@@ -109,7 +109,7 @@ document.createElement("article" );
 				<div class="feature_text">
 					<p>
 						&nbsp;<br>
-                                                <a class="link-homepage-feature" href="http://ed.stanford.edu/news/standard-excellence-how-john-w-gardner-inspires-new-generation-leaders">
+                                                <a class="link-homepage-feature" href="http://news.stanford.edu/thedish/?p=24631">
 						Stanford's Gardner Center joins $30 million Mission District youth initiative 
                                                 </a>	
 					</p><br>
@@ -132,7 +132,9 @@ document.createElement("article" );
 				<div class="feature_text">
 					<p>
 <ul class="news">
-					       	  <li><a class="link-homepage-feature" href="news/news.html">Wednesday, March 13, 2013<br>
+					       	 	  <li><a class="link-homepage-feature" href="news/news.html">February 24, 2013 to February 26, 2013<br>
+Building a GradNation Summit 2013</a><br><br>
+                                                  </li>  <li><a class="link-homepage-feature" href="news/news.html"> March 13, 2013<br>
 Driving Improvement in California's Continuation High Schools</a><br><br>
                                                   </li>
 						
