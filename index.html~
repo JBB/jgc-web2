@@ -91,6 +91,7 @@ document.createElement("article" );
 				</div>
 				<div class="feature_text">
 					<ul class="pdf">
+<br>
 <li><a class="link-homepage-feature" href="http://jgc.stanford.edu/resources/publications/GardnerCenter_RB_ECELinkages_2013.pdf" class="link-no-underline">Quality and Continuity of Practice: ECE & Community School Settings</a></li>
 <li><a class="link-homepage-feature" href="https://ed.stanford.edu/news/san-mateo-county-preschool-program-bridges-achievement-gap-study-shows">San Mateo County Program Bridges Achievement Gap, Study Shows</a></li>
 <li><a href="/resources/reports/Youth_Development_in_RWC_Full_Report.pdf" class="link-homepage-feature">Positive Youth Development in Redwood City</a></li> 					
