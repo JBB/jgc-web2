@@ -92,8 +92,11 @@ document.createElement("article" );
 				<div class="feature_text">
 					<ul class="pdf">
 <br>
+
+<li><a class="link-homepage-feature" href="http://gardnercenter.stanford.edu/resources/reports/ECE_Linkages_TOCReport_2013.pdf" class="link-no-underline">Early Childhood Community School Linkages</a></li>
+
 <li><a href=http://www.rwjf.org/en/research-publications/find-rwjf-research/2013/05/better-recess-better-school-day.html class="link-homepage-feature">Does Better Recess = A Better School Day?</a></li> 			
-<li><a class="link-homepage-feature" href="http://gardnercenter.stanford.edu/resources/publications/RCSDSurveyIssueBriefFinal11413.pdf" class="link-no-underline">Academic Demands & Student Achievement</a></li>
+
 <li><a class="link-homepage-feature" href="http://gardnercenter.stanford.edu/resources/reports/FamilyEngagementIssueBrief2013.pdf">A Study of Family Engagement in Redwood City Community Schools</a></li>
 
 						
@@ -134,8 +137,7 @@ document.createElement("article" );
 				</div>
 				<div class="feature_text">
 					<p>
-  <li><a class="link-homepage-feature" href="news/news.html">October 15, 2013<br>
-Prudence Carter and Sean Reardon: The Workshop on Poverty, Inequality, and Education</a><br><br>
+
 
   <li><a class="link-homepage-feature" href="news/news.html">October 23-25, 2013<br>
 Communities for Change 2013: Breaking Down Barriers to Bridge the Achievement Gap</a><br><br>
