@@ -92,7 +92,7 @@ document.createElement("article" );
 				<div class="feature_text">
 					<ul class="pdf">
 <br>
-<li><a href="http://vue.annenberginstitute.org/issues/38/college-readiness">College Readiness Indicator Systems Framework</a></li> 
+<li><a class="link-homepage-feature" href="http://vue.annenberginstitute.org/issues/38/college-readiness">College Readiness Indicator Systems Framework</a></li> 
 
 <li><a class="link-homepage-feature" href="http://gardnercenter.stanford.edu/resources/publications/PYDinRWC2013.pdf">Positive Youth Development in Redwood City, 2012-2013</a></li>
 
