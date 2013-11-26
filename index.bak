@@ -17,15 +17,18 @@ document.createElement("article" );
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache" />
 
   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
        Remove this if you use the .htaccess -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <meta name="google-site-verification" content="W9ib8G1kb99iOj9Mq-YnIvPjvAXxjH0xA7qD2jtmG7E" />  
   
   <!--FB plugin meta info-->
   <meta property="og:title" content="John W Gardner Center for Youth, Stanford University">
   <meta property="og:type" content="non_profit">
-  <meta property="og:image" content="http://jgc.stanford.edu/images/LogoGraphic-2.png">
+  <meta property="og:image" content="http://jgc.stanford.edu/images/jgclogo.gif">
   <meta property="og:url" content="http://jgc.stanford.edu">
   <meta property="og:site_name" content="JGC">
   <meta property="fb:admins" content="605843081" />
@@ -46,8 +49,9 @@ document.createElement("article" );
   <!-- Uncomment if you are specifically targeting less enabled mobile browsers
   <link rel="stylesheet" media="handheld" href="css/handheld.css?v=2">  -->
  
-  <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
-  <script src="js/libs/jquery-1.5.1.js"></script>
+  <!-- All JavaScript at the bottomhttp://www.americaspromise.org/Our-Work/Grad-Nation/Summit.aspx, except for Modernizr which enables HTML5 elements & feature detects -->
+  <script src="js/libs/jquery-latest.min.js"></script>
+  <script src="js/libs/jquery-event-tracking.js"></script>
   <script src="js/libs/hoverIntent.js"></script>
   <script src="js/libs/superfish.js"></script>
   <script type="text/javascript">
@@ -61,7 +65,6 @@ document.createElement("article" );
 </head>
 
 <body>
-
 
     <!--#include virtual="content-menu-top.html" -->
 
@@ -87,10 +90,20 @@ document.createElement("article" );
 					</span>
 				</div>
 				<div class="feature_text">
-					&nbsp;<br>
 					<ul class="pdf">
-						<li><a class="link-homepage-feature" href="/resources/publications/JGC_IB_Motivation2010.pdf"> Practices that Promote Middle School Students’ Motivation and Achievement</a></li>
-						<li><a class="link-homepage-feature" href="/resources/publications/JGC_IB_AfterSchoolPhysicalFitness2011.pdf" >Community-Based After School Programs and Youth Physical Fitness</a></li>
+<br>
+<li><a class="link-homepage-feature" href="http://vue.annenberginstitute.org/issues/38/college-readiness">College Readiness Indicator Systems Framework</a></li> 
+
+<li><a class="link-homepage-feature" href="http://gardnercenter.stanford.edu/resources/publications/PYDinRWC2013.pdf">Positive Youth Development in Redwood City, 2012-2013</a></li>
+
+<li><a class="link-homepage-feature" href="http://gardnercenter.stanford.edu/resources/reports/ECE_Linkages_TOCReport_2013.pdf" class="link-no-underline">Early Childhood Community School Linkages</a></li>
+
+			
+
+
+
+						
+						
 						
 					</ul>
 				</div>
@@ -104,10 +117,17 @@ document.createElement("article" );
 				<div class="feature_text">
 					<p>
 						&nbsp;<br>
-						Redwood City 2020’s Immigrant Youth Action Team (IYAT) increases support for immigrant youth.
-					</p>
-					<p>
-					<a class="link-homepage-feature" href="/partners/cydi-learn-more.html">Learn More</a>	
+         <a class="link-homepage-feature" href="http://www.ed.gov/news/press-releases/obama-administration-approves-nclb-waiver-request-california-core-districts">
+						NCLB Waiver Request for California CORE Districts Approved
+                                                </a>	<br> <br>
+<a class="link-homepage-feature" href="https://ed.stanford.edu/news/data-action-community-approach-improving-youth-outcomes">
+						From Data to Action Book </a>
+<br> <br>
+                                                <a class="link-homepage-feature" href="https://ed.stanford.edu/news/new-faculty-director-gardner-center">
+						Prudence Carter Named New Faculty Director 
+                                                </a>	
+					<br>
+                                       
 					</p>
 				</div>
 			</div>
@@ -116,13 +136,24 @@ document.createElement("article" );
 					<span id="blog">
 					        Upcoming Events	
 					</span>
+				
 				</div>
 				<div class="feature_text">
 					<p>
-						<ul class="news">
-              <li>January 27: Founding Director Milbrey McLaughlin presents at Bay Area <a class="link-homepage-feature" href="http://learninginafterschool.org/howkidslearn/wp/">Conference on How Kids Learn</a></li>
-              <li>March 8:  Senior Policy Analyst Oded Gurantz presents at the <a class="link-homepage-feature" href="http://cepa.stanford.edu/ecology/workshops">Postsecondary Ecology Workshop 2012 </a> at Stanford</li>
+
+<li><a class="link-homepage-feature" href="https://www1.gotomeeting.com/register/924796441">December 5, 2013<br>
+American Youth Policy Forum webinar on Research, Policy, & Practice</a><br><br>	
+                              
+	  <li><a class="link-homepage-feature" href="http://edpolicy.stanford.edu/events/1017">December 9, 2013<br>
+Brown Bag Seminar Series: Michael Wald</a><br><br>					
+
+
+
+
 						</ul>
+<br>
+                                        <a class="link-homepage-feature" href="/news/news.html">More Events >></a>
+
 					</p>
 				</div>
 			</div>
@@ -137,102 +168,54 @@ document.createElement("article" );
                                         &nbsp;<br>
 					<ul class="data">
 						<li><a class="link-homepage-feature" href="http://www.communityschools.org/resources/community_schools_evaluation_toolkit.aspx">Community Schools Evaluation Toolkit</a></li>
-						<li><a class="link-homepage-feature" href="http://jgcnet.stanford.edu">Map of EPA comunity programs</a></li>
-<li><a class="link-homepage-feature" href="http://johnwgardnertestsite.pbworks.com/w/page/13471102/BASICS%20Toolkit">BASICS Toolkit: Building, Assessing, Sustaining, and Improving Community Schools</a></li>
+						<li><a class="link-homepage-feature" href="http://permalink.fliqz.com/aspx/permalink.aspx?at=ecfdd4a7c70e496681c12ca6bd890d65&a=7c89bf5398ac4c49a016c936e4542736">Webinar about College Readiness Indicator Systems for Wallace Foundation Out-of-School Time Grantees</a></li>
+<li><a class="link-homepage-feature" href="http://jgc.stanford.edu/our_work/yell.html">Youth Engaged in Leadership and Learning (YELL)</a></li>
 					</ul>
 				</div>
 			</div>
+    <!--begin footer -->
                  <!--end of features, now footer-->
                  <br clear="all">
-                  
+                 <footer>
                  <div class="footer_top">
                    <ul class="plugins">
-                     <li class="plugin">
-                       <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="jgc.stanford.edu" layout="button_count" show_faces="false" width="90" font="" send="true" class="fb-like"></fb:like>
+                     <li class=plugin>
+                        <a title="Follow JGC on Facebook" href="http://www.facebook.com/gardnercenter">
+                          <img src="/images/index/f_logo.jpg"></a>
                      </li>
                      <li class=plugin>
-                        <a href="http://www.twitter.com/gardnercenter">
+                        <a title="Follow JGC on Twitter" href="http://www.twitter.com/gardnercenter">
                           <img src="/images/index/follow_on_twitter.png"></a>
                      </li>
-
                      <li class=plugin>
-                        <g:plusone size="medium" annotation="none"></g:plusone>
+                        <a title="Follow JGC on You Tube" href="http://www.youtube.com/user/stanforduniversity?feature=results_main">
+                          <img src="/images/index/you_tube.png"></a>
                      </li>
-
-
                    </ul>
                    <ul class="piped_right">
                      <li class="footer"><a href="/about_jgc/contact.html" class="footer">Contact Us</a></li>
-                     <li class="footer"><a href="#" class="footer">Jobs</a></li>
-                     <li class="footer"><a href="/about_jgc/mission.html" id="first" class="footer">About JGC</a></li>
+                     <li class="footer"><a href="/about_jgc/jobs.html" class="footer">Jobs</a></li>
+                     <li class="footer"><a href="/about_jgc/mission.html" class="footer">About JGC</a></li>
+                     <li class="footer"></a><a href="/about_jgc/contact.html" id="first" class="footer">Join Our Mailing List</a></li>
                    </ul>
                  </div>
                  
                  <div class="footer">
                    <span class="left_footer_text"> 
-                   Copyright &copy 2012 John W Gardner Center at Stanford University. All rights reserved.<br>Home page art by <a href="http://www.muralmusicarts.org">muralmusicarts.org</a>, lead artist Omar Ramirez</span> 
+                   Copyright &copy 2012 John W. Gardner Center at Stanford University. All rights reserved.<br>This <a href="mural.html" title="Learn more about the history behind this mural">mural</a> is by the Mural Music & Arts Project, designed by Omar Ramirez <a href="http://www.muralmusicarts.org">muralmusicarts.org</a></span> 
                    <ul class="piped">
-                     <li class="footer"><a href="http://stanford.edu/site/terms.html" target="blank" id="first" class="footer">Terms of use</a></li>
-                     <li class="footer"><a href="https://pgnet22.stanford.edu/giving/part/common/privacy.html" target="_blank" class="footer">Privacy policy</a></li>
+                     <li class="footer"><a href="http://stanford.edu/site/terms.html" target="_blank" id="first" class="footer">Terms of use</a></li>
+                     <li class="footer"><a href="http://adminguide.stanford.edu/63.pdf" target="_blank" class="footer">Privacy policy</a></li>
                    </ul>
                 </div>
-	 </div>
-      <footer>
-
-      </footer>
-
-    </div>
+                </footer>
     
   </div> <!--! end of #container -->
 
-
-  <!-- Javascript at the bottom for fast page loading -->
-
-  <!-- Grab Google CDN's jQuery. fall back to local if necessary
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="js/libs/jquery-1.4.2.js"%3E%3C/script%3E'))</script>
-   -->
-  
-  <!-- scripts concatenated and minified via ant build script-->
-  <!-- end concatenated and minified scripts-->
-  
-  
-  <!--[if lt IE 7 ]>
-    <script src="js/libs/dd_belatedpng.js"></script>
-    <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
-  <![endif]-->
-
-  <!-- yui profiler and profileviewer - remove for production
-  <script src="js/profiling/yahoo-profiling.min.js"></script>
-  <script src="js/profiling/config.js"></script>
-   -->
-  <!-- end profiling code -->
-
-
-  <!-- asynchronous google analytics: mathiasbynens.be/notes/async-analytics-snippet 
-       change the UA-XXXXX-X to be your site's ID -->
-  
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4880637-4']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + 
-'.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<script type="text/javascript">
- (function() {
-  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-  po.src = 'https://apis.google.com/js/plusone.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
- })();
-</script>
+    <!--end footer-->
+	</div>
+         
+    </div>
+    <!--#include virtual="content-analytics.html" -->
 </body>
 </html>
