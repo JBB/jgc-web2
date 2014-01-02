@@ -420,7 +420,7 @@ p.byline {
 			height: 100%;
                         float: left;
 			top: -1px;
-			background-color: #dadada;
+			background-color: #ffffff;
 			margin-bottom: 5px;
 		}
 			
@@ -698,7 +698,7 @@ p.byline {
 				height: 200px;
 				position: relative;
 				top: -1px;
-				background-color: #dadada;
+				background-color: #ffffff;
 				margin-bottom: 200px;
 			}
 			
@@ -834,7 +834,7 @@ p.byline {
 		}
 
                 div.footer_top {
-                  margin: 12px 0 9px 3px;
+                  margin: 12px 0 20px 3px;
                   color: #ffffff;
                   width: 100%;
                   /*margin: 18px auto 0;
