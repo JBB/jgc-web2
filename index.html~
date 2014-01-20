@@ -116,16 +116,16 @@ document.createElement("article" );
 				</div>
 				<div class="feature_text">
 					<p>
-						&nbsp;<br>
+						&nbsp;<br><br> 
+                                                <a class="link-homepage-feature" href="http://us2.campaign-archive2.com/?u=4330677cca2ba362b611d7468&id=b8b2a5a00f&e=b52d7b9981">
+						Prudence Carter Elected Member of the National Academy of Education<br><br>
+                                                </a>	
          <a class="link-homepage-feature" href="http://www.ed.gov/news/press-releases/obama-administration-approves-nclb-waiver-request-california-core-districts">
 						NCLB Waiver Request for California CORE Districts Approved
                                                 </a>	<br> <br>
 <a class="link-homepage-feature" href="https://ed.stanford.edu/news/data-action-community-approach-improving-youth-outcomes">
 						From Data to Action Book </a>
-<br> <br>
-                                                <a class="link-homepage-feature" href="https://ed.stanford.edu/news/new-faculty-director-gardner-center">
-						Prudence Carter Named New Faculty Director 
-                                                </a>	
+
 					<br>
                                        
 					</p>
@@ -142,8 +142,8 @@ document.createElement("article" );
 					<p>
 
                               
-	  <li><a class="link-homepage-feature" href="http://edpolicy.stanford.edu/events/1017">December 9, 2013<br>
-Brown Bag Seminar Series: Michael Wald</a><br><br>					
+	  <li><a class="link-homepage-feature" href="http://edpolicy.stanford.edu/events/1017">2013-2014<br>
+Brown Bag Seminar Series</a><br><br>					
 
 
 
