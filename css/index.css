@@ -16,6 +16,19 @@
 	margin-right: auto;
 }
 
+#page-sub
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 805px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #page_position_content
 {
 	margin-top: 18px;
@@ -42,6 +55,14 @@
 {
 	z-index: 7;
 	width: 740px;
+	margin-right: -10000px;
+	margin-top: 52px;
+}
+
+#u8220-sub
+{
+	z-index: 7;
+	width: 679px;
 	margin-right: -10000px;
 	margin-top: 52px;
 }
@@ -1443,10 +1464,29 @@
 	position: relative;
 }
 
+#u7534-sub
+{
+	z-index: 2;
+	width: 960px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-top: 6px;
+	position: relative;
+}
+
 #u7535
 {
 	z-index: 3;
 	width: 1320px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7535-sub
+{
+	z-index: 3;
+	width: 960;
 	position: relative;
 	margin-right: -10000px;
 }
