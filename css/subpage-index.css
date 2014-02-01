@@ -13,7 +13,7 @@
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding-top: 52px;
-	padding-bottom: 557px;
+	padding-bottom: 10px; /*JBB- changed from 557*/
 	margin-left: auto;
 	margin-right: auto;
 }
