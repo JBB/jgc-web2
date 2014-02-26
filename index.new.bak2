@@ -2,29 +2,49 @@
 <html class="html">
  <head>
 
+
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="7.2.232.244"/>
-  <meta name="google-site-verification" content="W9ib8G1kb99iOj9Mq-YnIvPjvAXxjH0xA7qD2jtmG7E"/>
-  <link rel="shortcut icon" href="images/home-favicon.ico?218918666"/>
+  <meta name="google-site-verification" content="W9ib8G1kb99iOj9Mq-YnIvPjvAXxjH0xA7qD2jtmG7E" />  
+
+  <link rel="shortcut icon" href="/images/home-favicon.ico?218918666"/>
   <title>HOME</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?4083030058"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?257382971"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?414695834" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="/css/site_global.css?4083030058"/>
+  <link rel="stylesheet" type="text/css" href="/css/master_a-master.css?257382971"/>
+  <link rel="stylesheet" type="text/css" href="/css/index.css?4152896167" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
+   var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?3880880085" type="text/javascript"></script>
+  <script src="scripts/jquery.musemenu.js?32367222" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(false);/* body */
+Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
    </head>
  <body>
-
+  
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
     <div class="clearfix colelem" id="pu9202"><!-- group -->
-     <a class="nonblock nontext clip_frame grpelem" id="u9202" href="http://jgc.stanford.edu"><!-- image --><img class="block" id="u9202_img" src="images/jgc-logo.gif" alt="" width="740" height="43"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u9202" href="http://jgc.stanford.edu"><!-- image --><img class="block" id="u9202_img" src="/images/jgc-logo.gif" alt="" width="740" height="43"/></a>
      <div class="grpelem" id="u7686"><!-- custom html -->
-
-
    <script>
      (function() {
        var cx = '014221189792540735175:beufblrgl0a';
@@ -40,6 +60,7 @@
    <gcse:searchbox-only></gcse:searchbox-only>
 
 </div>
+
      <a class="nonblock nontext clip_frame grpelem" id="u9200" href="https://ed.stanford.edu" target="_blank"><!-- image --><img class="block" id="u9200_img" src="images/school-of-ed-logo.gif" alt="" width="281" height="45"/></a>
     </div>
     <div class="clearfix colelem" id="ppu1023"><!-- group -->
@@ -179,11 +200,11 @@
       </ul>
      </div>
      <div class="shadow clip_frame grpelem" id="u7712"><!-- image -->
-      <img class="block" id="u7712_img" src="images/fromdatatoaction.gif" alt="" width="81" height="122"/>
+      <img class="block" id="u7712_img" src="/images/fromdatatoaction.gif" alt="" width="81" height="122"/>
      </div>
      <div class="grpelem" id="u1020"><!-- simple frame --></div>
      <div class="grpelem" id="u1021"><!-- simple frame --></div>
-     <a class="nonblock nontext grpelem" id="u1028" href="http://www.flipsnack.com/7E655CF569B/ftmedaya" target="_blank"><!-- rasterized frame --><img id="u1028_img" src="images/brochure-cover-u1028.png" alt="" width="110" height="129"/></a>
+     <a class="nonblock nontext grpelem" id="u1028" href="http://www.flipsnack.com/7E655CF569B/ftmedaya" target="_blank"><!-- rasterized frame --><img id="u1028_img" src="/images/brochure-cover-u1028.png" alt="" width="110" height="129"/></a>
      <div class="clearfix grpelem" id="u1034-4"><!-- content -->
       <p>Read Our Brochure:</p>
      </div>
@@ -224,22 +245,22 @@
        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/gardnercenter" data-widget-id="403089500265390080">Tweets by @gardnercenter</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
-      <a class="nonblock nontext clip_frame grpelem" id="u7495" href="https://twitter.com/gardnercenter"><!-- image --><img class="block" id="u7495_img" src="images/follow-from-web-u7495.jpg" alt="" width="80" height="30"/></a>
+      <a class="nonblock nontext clip_frame grpelem" id="u7495" href="https://twitter.com/gardnercenter"><!-- image --><img class="block" id="u7495_img" src="/images/follow-from-web-u7495.jpg" alt="" width="80" height="30"/></a>
      </div>
      <div class="clearfix grpelem" id="u8392-10"><!-- content -->
       <p id="u8392-2"><span id="u8392">NEWS</span></p>
       <p class="Main-Headline-Link" id="u8392-5"><a class="nonblock" href="http://jgc.stanford.edu"><span id="u8392-3">Exploring Causes of Chronic Absences in Local School Districts</span></a></p>
-      <p id="u8392-8"><span><span class="actAsDiv normal_text" id="u8415"><!-- content --><span class="actAsDiv clip_frame" id="u8409"><!-- image --><img class="block" id="u8409_img" src="images/graciela-u8409.jpg" alt="" width="105" height="150"/></span></span></span>When students are not in school, they miss the lorem ipsum dolor set opportunity to grow academically, socially, and emotionally. These skills are critical for continued success in school, in the community, and onward into adulthood. At the request of the Redwood City 2020 collaborative, the Gardner Center conducted a linked&#45;data analysis to explore the causes consequences that are present the lorem ipsum dolor set lorem ipsum dolor set in the community.</p>
+      <p id="u8392-8"><span><span class="actAsDiv normal_text" id="u8415"><!-- content --><span class="actAsDiv clip_frame" id="u8409"><!-- image --><img class="block" id="u8409_img" src="/images/graciela-u8409.jpg" alt="" width="105" height="150"/></span></span></span>When students are not in school, they miss the lorem ipsum dolor set opportunity to grow academically, socially, and emotionally. These skills are critical for continued success in school, in the community, and onward into adulthood. At the request of the Redwood City 2020 collaborative, the Gardner Center conducted a linked&#45;data analysis to explore the causes consequences that are present the lorem ipsum dolor set lorem ipsum dolor set in the community.</p>
      </div>
      <div class="clip_frame grpelem" id="u9534" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="21" data-mu-ie-matrix-dy="-21"><!-- image -->
-      <img class="block" id="u9534_img" src="images/red-circle.png" alt="" width="113" height="70"/>
+      <img class="block" id="u9534_img" src="/images/red-circle.png" alt="" width="113" height="70"/>
      </div>
      <div class="pointer_cursor PDF-Download-Link clearfix grpelem" id="u9542-5"><!-- content -->
       <a class="block" target="_blank" href="http://www.jacquelinejonesdesign.com"></a>
       <p><a class="nonblock" href="http://www.jacquelinejonesdesign.com" target="_blank">Click here for PDF version</a></p>
      </div>
      <div class="grpelem" id="u1043"><!-- custom html -->
-      <iframe width="328" height="210" src="http://www.youtube.com/embed/2eBptnf-YW0?rel=0" frameborder="0"></iframe>
+      <iframe width="328" height="210" src="//www.youtube.com/embed/2eBptnf-YW0?rel=0" frameborder="0" </iframe>
 </div>
      <div class="clearfix grpelem" id="u1041-5"><!-- content -->
       <p><span id="u1041">Founding Director Milbrey McLaughlin</span>&nbsp;discusses the lasting legacy of John W. Gardner at the JWG Centennial.</p>
@@ -249,9 +270,9 @@
      <div class="clearfix grpelem" id="u7265-4"><!-- content -->
       <p>Copyright © 2014 John W. Gardner Center at Stanford University. All rights reserved.</p>
      </div>
-     <a class="nonblock nontext clip_frame grpelem" id="u8369" href="http://www.facebook.com/gardnercenter" target="_blank"><!-- image --><img class="block" id="u8369_img" src="images/facebook-icon.gif" alt="" width="27" height="27"/></a>
-     <a class="nonblock nontext clip_frame grpelem" id="u8374" href="http://www.twitter.com/gardnercenter" target="_blank"><!-- image --><img class="block" id="u8374_img" src="images/twitter-icon.gif" alt="" width="27" height="27"/></a>
-     <a class="nonblock nontext clip_frame grpelem" id="u8379" href="http://www.youtube.com/user/stanforduniversity?feature=results_main" target="_blank"><!-- image --><img class="block" id="u8379_img" src="images/youtube-icon.gif" alt="" width="27" height="27"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u8369" href="http://www.facebook.com/gardnercenter" target="_blank"><!-- image --><img class="block" id="u8369_img" src="/images/facebook-icon.gif" alt="" width="27" height="27"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u8374" href="http://www.twitter.com/gardnercenter" target="_blank"><!-- image --><img class="block" id="u8374_img" src="/images/twitter-icon.gif" alt="" width="27" height="27"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u8379" href="http://www.youtube.com/user/stanforduniversity?feature=results_main" target="_blank"><!-- image --><img class="block" id="u8379_img" src="/images/youtube-icon.gif" alt="" width="27" height="27"/></a>
      <a class="nonblock nontext clearfix grpelem" id="u7266-4" href="/donate.html" target="_blank"><!-- content --><p>MAKE A GIFT</p></a>
      <a class="nonblock nontext clearfix grpelem" id="u7528-4" href="/about_jgc/contact.html" target="_blank"><!-- content --><p>JOIN OUR MAILING LIST</p></a>
      <a class="nonblock nontext clearfix grpelem" id="u7267-4" href="http://stanford.edu/site/terms.html" target="_blank"><!-- content --><p>Terms of use</p></a>
@@ -260,23 +281,5 @@
    </div>
   </div>
   <!-- JS includes -->
-  <script type="text/javascript">
-   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
-</script>
-  <script type="text/javascript">
-   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
-</script>
-  <script src="scripts/museutils.js?3880880085" type="text/javascript"></script>
-  <script src="scripts/jquery.musemenu.js?32367222" type="text/javascript"></script>
-  <!-- Other scripts -->
-  <script type="text/javascript">
-   $(document).ready(function() { try {
-Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
-Muse.Utils.prepHyperlinks(false);/* body */
-Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.showWidgetsWhenReady();/* body */
-Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
-} catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
-</script>
    </body>
 </html>
