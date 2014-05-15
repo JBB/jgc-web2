@@ -206,10 +206,10 @@
        <p id="u1047-3"><a class="nonblock" href="http://gardnercenter.stanford.edu/news/news.html" target="_blank"><span id="u1047">EVENTS</span></a></p>
       </div>
       <div class="clearfix colelem" id="u1182-11"><!-- content -->
-       <p class="Events-Subhead-Link"><a class="nonblock" href="https://tedx.stanford.edu/2014" target="_blank">TEDxStanford</a></p>
+       <p class="Events-Subhead-Link"><a class="nonblock" href="https://edpov.stanford.edu/events/manuelito-biag" target="_blank">Beyond Test Scores & Grades: Expanding the Notion of College Readiness</a></p>
        <p>&nbsp;</p>
-       <p>DATE: May 10, 2014&nbsp; TIME: 11:00 am — 6:30 pm</p>
-       <p>LOCATION: CEMEX Auditorium, Stanford University</p>
+       <p>DATE: June 3 &nbsp; <br> TIME: 5:00 pm to 7:00 pm</p>
+       <p>LOCATION: Workshop on Poverty, Inequality, & Education, Stanford University</p>
 	
        <p id="u1182-9">&nbsp;</p>
       </div>
@@ -229,7 +229,7 @@
      </div>
      <div class="clearfix grpelem" id="u8392-10"><!-- content -->
       <p id="u8392-2"><span id="u8392">NEWS</span></p>
-      <p class="Main-Headline-Link" id="u8392-5"><a class="nonblock" href="/our_work/CRISResources.html/" target="_blank"><span id="u8392-3">New College Readiness Resources</span></a></p>
+      <p class="Main-Headline-Link" id="u8392-5"><a class="nonblock" href="/our_work/CRISResources.html"><span id="u8392-3">New College Readiness Resources</span></a></p>
       <p id="u8392-8"><span><span class="actAsDiv normal_text" id="u8415"><!-- content --><span class="actAsDiv clip_frame" id="u8409"><!-- image --><img class="block" id="u8409_img" src="images/team/cris.png" alt="" width="100" height="126"/></span></span></span>More students than ever are enrolling in college after high school, but many are not college-ready. Indicator systems that identify students in need of support are an integral piece of the college-readiness puzzle. The CRIS Initiative takes an innovative tri-level approach which provides data at the student, school, and district levels, enabling districts to take a more comprehensive approach to supporting college readiness. <a href="https://ed.stanford.edu/news/new-resource-helps-school-districts-prepare-students-college-success">Read more.</a></p>
      </div>
      <div class="clip_frame grpelem" id="u9534" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="21" data-mu-ie-matrix-dy="-21"><!-- image -->
@@ -279,5 +279,6 @@ Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
+<!--#include virtual="/content-analytics.html" -->
    </body>
 </html>
