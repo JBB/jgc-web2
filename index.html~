@@ -12,6 +12,7 @@
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?257382971"/>
   <link rel="stylesheet" type="text/css" href="css/index.css?414695834" id="pagesheet"/>
   <!-- Other scripts -->
+  <script src="/js/libs/download-analytics.js"></script>
   <script type="text/javascript">
    document.documentElement.className += ' js';
 </script>
@@ -50,11 +51,11 @@
         <p id="u1039-3"><a class="nonblock" href="http://jgc.stanford.edu/about_jgc/mission.html" target="_blank"><span id="u1039">Gardner Perspectives</span></a></p>
        </div>
        <div class="clearfix colelem" id="u1040-16"><!-- content -->
-        <p class="Perspectives-Subhead-Link" id="u1040-6"><a class="nonblock" href="http://gardnercenter.stanford.edu/resources/policy_fact_sheets/Absence_Interventions_PFS.pdf" target="_blank">STEPS TO ADDRESSING <br/>TRUANCY & CHRONIC ABSENTEEISM</a></p>
+        <p class="Perspectives-Subhead-Link" id="u1040-6"><a class="nonblock" href="http://gardnercenter.stanford.edu/resources/GardnerPerspectiveJuly2014.pdf" target="_blank">BRIDGING THE GAP:<br/>THE POTENTIAL OF FAMILY ENGAGEMENT</a></p>
         <p id="u1040-7">&nbsp;</p>
-        <p id="u1040-9">A Policy Fact Sheet</p>
+        <p id="u1040-9">Kendra Fehrer, PhD</p>
         <p id="u1040-11"></p>
-        <p><br/>Addressing chronic absenteeism is a continuous process that involves understanding its prevalence and identifying characteristics of chronically absent students, then identifying, applying, and tracking interventions, assessing their effectiveness, and adjusting them accordingly. A core piece of addressing absenteeism is creating a data system which sits at the center of all subsequent steps in the process.</p>
+        <p><br/>In practice, family engagement encompasses a wide range of activities and initiatives, from parental participation in school governance to at-home learning activities to classroom volunteering. At the Gardner Center, I've worked on several projects exploring the impact of family engagement on student and community outcomes. Each has caused me to reflect deeply on what family engagement really is and why it matters.</p>
        </div>
       </div>
      </div>
@@ -217,7 +218,7 @@
      <div class="grpelem" id="u1022"><!-- simple frame --></div>
      <div class="clearfix grpelem" id="u7466-9"><!-- content -->
       <p id="u7466-2"><span id="u7466">RESEARCH HIGHLIGHTS</span></p>
-      <p class="Main-Headline-Link" id="u7466-5"><a class="nonblock" href="http://jgc-int.stanford.edu:8080/resources/publications/RWC_CS_IB_2014.pdf" target="_blank"><span id="u7466-3">Development City Community Schools</span></a></p>
+      <p class="Main-Headline-Link" id="u7466-5"><a class="nonblock" href="http://jgc-int.stanford.edu:8080/resources/publications/RWC_CS_IB_2014.pdf" target="_blank"><span id="u7466-3">Redwood City Community Schools</span></a></p>
       <p id="u7466-7">The vision of Redwood City's community schools is to integrate academic, health, and social services; youth and community development; and community engagement. Since 2006, Redwood City School District has partnered with the Gardner Center to examine students' involvement in three key areas: extended learning, family engagement, and support services. With guidance from community school officials, the Gardner Center investigates whether students' participation in programs within these areas influences outcomes.</p>
      </div>
      <div class="clearfix grpelem" id="u7524"><!-- group -->
