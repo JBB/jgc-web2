@@ -298,6 +298,7 @@ div.photosmall-left {float: left; margin: 0 2em 1em 0; width: 202px;}
 div.photosmall p {background-color: #f6f3e5; font-size: .9em !important; font-style: normal !important; margin-top: 0; padding: .5em; }
 div.photosmall img {border:1px solid #e6e4db;}
 img.photosmall   {border: 1px solid #e6e4db; width: 200px;}
+img.photosmall-left   {float: left; border: 1px solid #e6e4db; width: 200px;}
 
 /* JBB - Not including maincntent p below
 p.byline {
