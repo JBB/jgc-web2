@@ -47,6 +47,7 @@ document.createElement("article" );
 <script src="scripts/jquery-1.11.2.min.js"></script> 
 
 <script>
+var contactHello;
 //$(function () {
   $("#email").keyup(function(event){
     if(event.keyCode == 13){
@@ -68,7 +69,7 @@ function signup() {
   var contactName = $('#contact_name');
   var contactOrg = $('#contact_organ');
   var contactJob = $('#contact_job');
-  var contactHello = $('#contact_hello');
+  //var contactHello = $('#contact_hello');
   var contactMessage = $('#contact_message');
   var messageLine = $('#messageLine');
   if (validE(email.val())) {
@@ -80,7 +81,7 @@ function signup() {
     if (navigator.userAgent.match(/msie/i)) {
     // Use Microsoft XDR
       var xdr = new XDomainRequest();
-      xdr.open("get",'http://cs210net.stanford.edu/cgi-bin/jgc-wallace.cgi?email=' + email.val() + '&name=' + contactName.val() + '&org=' + contactOrg.val() + '&title=' + contactJob.val() + '&group=' + contactHello.val() + '&message=' + contactMessage.val());
+      xdr.open("get",'http://cs210net.stanford.edu/cgi-bin/jgc-wallace.cgi?email=' + email.val() + '&name=' + contactName.val() + '&org=' + contactOrg.val() + '&title=' + contactJob.val() + '&group=' + contactHello + '&message=' + contactMessage.val());
       
       xdr.onload = function() {
           // XDomainRequest doesn't provide responseXml, so if you need it:
@@ -97,7 +98,7 @@ function signup() {
                 'name': contactName.val(),
                 'org': contactOrg.val(),
                 'title': contactJob.val(),
-                'group': contactHello.val(),
+                'group': contactHello,
                 'message': contactMessage.val()
               }
       });
@@ -239,25 +240,25 @@ function signup() {
 
 <div class="form-group">
 
-<select class="form-control id="contact_hello" name="hello">
+<select class="form-control id="contact_hello" name="hello" onChange="contactHello = this.value;">
                                                 <option value="None Selected"selected>Please Select City Team/Group</option>
                                                 <option value="Baltimore">Baltimore</option>
-                                                <option value="3">Fort Worth</option>
-                                                <option value="4">Philadelphia</option>
-                                                <option>New York</option>
-                                                <option>Nashville</option>
-                                                <option>Grand Rapids</option>
-                                                <option>Chicago</option>
-                                                <option>Denver</option>
-                                                <option>Boston</option>
-       <option>Croft and Joftus</option>
-       <option>Collaborative Communications</option>
-       <option>Weikart</option>
-       <option>John W. Gardner Center Staff</option>
-       <option>Forum for Youth Investments</option>
-       <option>National Institute for Out-of-School Time</option>
-       <option>Wallace Staff</option>
-       <option>Chapin Hall</option>
+                                                <option value="Fort Worth">Fort Worth</option>
+                                                <option value="Philadelphia">Philadelphia</option>
+                                                <option value="New York">New York</option>
+                                                <option value="Nashville">Nashville</option>
+                                                <option value="Grand Rapids">Grand Rapids</option>
+                                                <option value="Chicago">Chicago</option>
+                                                <option value="Denver">Denver</option>
+                                                <option value="Boston">Boston</option>
+       <option value="Croft and Joftus">Croft and Joftus</option>
+       <option value="Collaborative Communications">Collaborative Communications</option>
+       <option value="Weikart">Weikart</option>
+       <option value="John W. Gardner Center Staff">John W. Gardner Center Staff</option>
+       <option value="Forum for Youth Investments">Forum for Youth Investments</option>
+       <option value="National Institute for Out-ofSchool Time">National Institute for Out-of-School Time</option>
+       <option value="Wallace Staff">Wallace Staff</option>
+       <option value="Chapin Hall">Chapin Hall</option>
 
                                             </select>
 
