@@ -71,9 +71,11 @@ function signup() {
   var contactJob = $('#contact_job');
   //var contactHello = $('#contact_hello');
   var contactMessage = $('#contact_message');
+  var regMessage = $('#regMessage');
   var messageLine = $('#messageLine');
   if (validE(email.val())) {
-    messageLine.replaceWith('<p>Well done! You are now registered for the convening. Please book your hotel below</p>');
+    messageLine.replaceWith('<p>Thank you for your registration</p>');
+    regMessage.replaceWith('<p>Well done! You are now registered for the convening. Please book your hotel below</p>');
     $('#error').hide();
     $('#emailBtn').hide();
     //send info to server
@@ -271,6 +273,7 @@ function signup() {
 	</div>
 
 
+<p id="regMessage" class="sep-bottom">&nbsp;</p>
 <input type="button" id="emailBtn" value="Reserve" onclick="signup();" class="btn btn-lg btn-block btn-primary"><br>
 
 <span id="error" style="display: none;">Please enter a valid email.</span> 
