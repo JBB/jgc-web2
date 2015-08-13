@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wallace Convening</title>
+<meta name="description" content="Wallace Convening data to action">
+<meta name="John W. Gardner Center, Wallace Convening, Wallace Registration, Wallace Foundation" content="Wallace Cities Registration">
+
+<link rel="shortcut icon" href="img/gardner.jpeg"/>
+<link href='http://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css'>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet">
+<link href="css/animate.css" rel="stylesheet">
+
+</head>
+<body>
+
+<header class="text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="welcome-message">
+<h3 class="animated fadeInDown">Welcome Wallace Grantees and Participants To</h3>
+          <h1 class="animated zoomIn">NEXT GENERATION AFTER SCHOOL SYSTEM BUILDING INITIATIVE CROSS-SITE CONVENING</h1>
+          <h2 class="animated fadeInDown">At Stanford University</h2>
+          <div class="button animated zoomIn">
+            <div class="row">
+              <div class="col-md-6 center-block col-sm-10 col-xs-9">
+                  <div class="row">
+                    </div>
+                      <button onclick="window.location.href='Registration/Welcome.html'" class="btn btn-default">Enter</button> 
+                    </div>
+                  </div>
+       
+    
+    </div>
+</header>
+</body>
+</html>
