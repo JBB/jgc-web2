@@ -82,6 +82,7 @@ function signup() {
     //if ($.browser.msie && window.XDomainRequest) {
     if (navigator.userAgent.match(/msie/i)) {
     // Use Microsoft XDR
+      console.log("JBB We are in msie land JBB");
       var xdr = new XDomainRequest();
       xdr.open("get",'http://cs210net.stanford.edu/cgi-bin/jgc-wallace.cgi?email=' + email.val() + '&name=' + contactName.val() + '&org=' + contactOrg.val() + '&title=' + contactJob.val() + '&group=' + contactHello + '&message=' + contactMessage.val());
       
